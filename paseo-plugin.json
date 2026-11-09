@@ -1,0 +1,9 @@
+{
+  "id": "paseo-approvals",
+  "name": "Approvals",
+  "description": "Everything that needs you, as one stack of cards: agent replies, permission prompts, questions, and approvals from any script or agent.",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.12.0"
+  }
+}
